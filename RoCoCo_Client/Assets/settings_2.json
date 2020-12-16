@@ -1,0 +1,19 @@
+{
+	"host": "localhost",
+	"port": 54322,
+	"control_interval": 0.02,
+	"time_scale": 1.0,
+	"input_ratio": 0.18,
+	"show_agent1_path": false,
+	"show_agent2_path": false,
+	"agent1_arrow": 3.0,
+	"agent2_arrow": 3.0,
+	"player_num": 1,
+	"agent1_task_dynamics_weight": 0.5,
+	"agent2_task_dynamics_weight": 0.5,
+	"camera1_axis": 0,
+	"camera2_axis": 3,
+	"show_route_history": true,
+	"replay": false,
+	"replay_path": "log_*"
+}
